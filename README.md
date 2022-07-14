@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MirajRout
 - 🌱 I’m currently learning - Java
-- 📫 How to reach me - mirajrout@outlook.com
+- 📫 How to reach me - routmiraj7@gmail.com
 - Connect with me on - twitter.com/miraj_rout
 
 <!---
